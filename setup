@@ -1,0 +1,6 @@
+#!/bin/bash
+
+ln -sf $PWD/bashrc $HOME/.bashrc
+ls -l $HOME/.bashrc
+ln -sf $PWD/vimrc $HOME/.vimrc
+ls -l $HOME/.vimrc
