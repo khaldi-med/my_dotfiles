@@ -1,4 +1,4 @@
-* set number
-* colorscheme pablo
-* syntax enable
-
+set number
+colorscheme pablo
+syntax enable
+ 
